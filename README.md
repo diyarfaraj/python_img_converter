@@ -1,3 +1,3 @@
 # python_img_converter
 
-COMMAND: python JPGtoPNGconverter.py .\pokemons\ .\new\
+to run: python JPGtoPNGconverter.py .\pokemons\ .\new\
